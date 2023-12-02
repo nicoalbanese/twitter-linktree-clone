@@ -1,0 +1,19 @@
+{
+  "hasSrc": true,
+  "packages": [
+    "shadcn-ui",
+    "drizzle",
+    "lucia",
+    "trpc",
+    "stripe"
+  ],
+  "preferredPackageManager": "bun",
+  "t3": false,
+  "alias": "@",
+  "rootPath": "src/",
+  "componentLib": "shadcn-ui",
+  "driver": "pg",
+  "provider": "postgresjs",
+  "orm": "drizzle",
+  "auth": "lucia"
+}

@@ -1,0 +1,27 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1701274198163,
+      "tag": "0000_loose_machine_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1701274308598,
+      "tag": "0001_wandering_korvac",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1701274433699,
+      "tag": "0002_eminent_power_man",
+      "breakpoints": true
+    }
+  ]
+}
